@@ -12,6 +12,10 @@ This project provides a tool for solving Sudoku puzzles programmatically. It is 
 - Written in JavaScript
 - Easy to integrate or use as a standalone tool
 
+## Website 
+
+Check it out: [Sudoku Solver Live Demo](https://adarshhinsodiya.github.io/Sudoku-Solver/)
+
 ## Installation
 
 1. Clone the repository:
